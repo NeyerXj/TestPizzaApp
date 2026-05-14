@@ -1,3 +1,3 @@
 # TestPizzaApp
 
-Тестовое задание.
+Test Task
